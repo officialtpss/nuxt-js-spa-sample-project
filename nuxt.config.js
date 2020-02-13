@@ -56,4 +56,8 @@ export default {
   axios: {
     baseURL: 'http://localhost:4010/'
   },
+  toast: {
+    duration: 3000,
+    theme: 'bubble'
+  },
 }
